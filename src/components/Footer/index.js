@@ -6,7 +6,7 @@ const Footer = (props) => {
         <footer>
             <br />
             <p>
-                &copy;2020 - Chris Faux.
+                &copy;2021 - Chris Faux.
             </p>
         </footer>
     )

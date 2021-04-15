@@ -5,9 +5,9 @@ import './style.css'
 
 const About = (props) => {
     return (
-        <Container className='mx-auto my-5 rounded'>
+        <Container className='mx-auto my-5 rounded py-2' id='about'>
             <Row>
-                <h1>About Me:</h1>
+                <h1 className='px-1'>About Me:</h1>
             </Row>
             <Row>
                 <Col md='3'>

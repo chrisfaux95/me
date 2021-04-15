@@ -7,6 +7,7 @@ const Portfolio = (props) => {
     return (
         <main class='text-center'>
             <h1>My Portfolio</h1>
+            <hr></hr>
             <Container>
                 {works.map((item) => <PortfolioItem item={item} />)}
             </Container>

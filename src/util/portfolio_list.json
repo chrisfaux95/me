@@ -57,7 +57,7 @@
         }
     },
     {
-        "name": "password_generator",
+        "name": "password generator",
         "description": "A simple webpage that allows the user to generate new (and generally secure) passwords",
         "links": [
             {
@@ -75,7 +75,7 @@
         }
     },
     {
-        "name": "day_planner",
+        "name": "day planner",
         "description": "A quick day planner web page.",
         "links": [
             {
@@ -93,7 +93,7 @@
         }
     },
     {
-        "name": "readme_generator",
+        "name": "readme generator",
         "description": "A command line tool to generate README.md files",
         "links": [
             {
@@ -121,7 +121,7 @@
         }
     },
     {
-        "name": "team_profile_generator",
+        "name": "team profile generator",
         "description": "A command line tool to generate a webpage based upon inputting in employee or team member information",
         "links": [
             {
