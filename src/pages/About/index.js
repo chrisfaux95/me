@@ -22,8 +22,8 @@ const About = (props) => {
                         Javascript, Java, and Python.  Has experience with both MYSQL and MongoDB.
                         </p>
                     <p>
-                        Email: chrisfaux95@gmail.com
-                        </p>
+                        Email: <a href="mailto:chrisfaux95@gmail.com">chrisfaux95@gmail.com</a>
+                    </p>
                     <div id='socials'>
                         <Button
                             color='primary'
