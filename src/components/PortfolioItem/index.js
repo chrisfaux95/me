@@ -14,11 +14,11 @@ const PortfolioItem = (props) => {
                 <hr />
                 {props.item.description}
                 <Container>
-                    <hr />
+                    {/* <hr />
                     <Row>
                         <h3>Built with:</h3>
 
-                    </Row>
+                    </Row> */}
                     <hr />
                     <Row><h3>Links:</h3></Row>
                     <Row>                   
