@@ -2,3 +2,8 @@
     margin: auto;
     margin-right: 1%
 }
+
+#selfimg {
+    max-width: 10em;
+    margin-left: auto;
+}

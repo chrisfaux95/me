@@ -10,7 +10,7 @@ import './App.scss';
 
 function App() {
     return (
-        <Router basename="/react_portfolio">
+        <Router basename='/me'>
             <Wrapper>
                 <Header />
                 <Switch>

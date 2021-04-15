@@ -12,7 +12,9 @@ const About = (props) => {
             <Row>
                 <Col md='3'>
                     <img
-                        src={`${process.env.PUBLIC_URL}/assets/images/self.jpg`} alt="Chris Faux" className="img-thumbnail" />
+                        src={`${process.env.PUBLIC_URL}/assets/images/self.jpg`} alt="Chris Faux" className="img-thumbnail"
+                        id="selfimg"
+                        />
                 </Col>
                 <Col md='8'>
                     <p>

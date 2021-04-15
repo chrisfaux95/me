@@ -1,4 +1,8 @@
+@use "./util/_colors";
 
+html {
+    background-color:#A0A0A0
+}
 
 $theme-colors: (
     "primary": #792CDF,
